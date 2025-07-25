@@ -1,2 +1,2 @@
 # droid
-html e css guanabara
+html css curso guanabara
